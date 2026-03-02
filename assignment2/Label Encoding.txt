@@ -1,0 +1,7 @@
+'Insufficient_Weight' → 0
+'Normal_Weight' → 1
+'Obesity_Type_I' → 2
+'Obesity_Type_II' → 3
+'Obesity_Type_III' → 4
+'Overweight_Level_I' → 5
+'Overweight_Level_II' → 6
